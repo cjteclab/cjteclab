@@ -1,7 +1,7 @@
 - 👋 Hi, I’m CJ from cjteclab.
 - 👀 I’m interested in computational chemistry, quantum computing, machine learning and all python stuff.
 - 🌱 I’m currently learning qiskit, advanced python skills and different python libraries.
-- 💞️ I’m looking to collaborate on open source projects, mentors and small coding groups.
+- 💞️ I’m looking for collaborations on open source projects, mentors and small coding communities.
 - 📫 How to reach me: cjteclab@gmail.com
 
 <!---
