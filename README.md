@@ -14,10 +14,10 @@ In the main cjteclab repository you can find:
  - cogitationes (thoughts about different themes and personal interests)
  
 You can also find the following four repositories of own small projects:
- 1. cjteclab_computational_chemistry
- 2. cjteclab_quantum_computing
- 3. cjteclab_data_science
- 4. cjteclab_miscellaneous_projects
+ 1. [cjteclab_computational_chemistry](https://github.com/cjteclab/cjteclab_computational_chemistry)
+ 2. [cjteclab_quantum_computing](https://github.com/cjteclab/cjteclab_quantum_computing)
+ 3. [cjteclab_data_science](https://github.com/cjteclab/cjteclab_data_science)
+ 4. [cjteclab_miscellaneous_projects](https://github.com/cjteclab/cjteclab_miscellaneous_projects)
 
 ---
 
