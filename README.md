@@ -1,6 +1,6 @@
 ## Welcome | اهلا وسهلا | স্বাগত| 欢迎 | Willkommen | Bienvenue | स्वागत है | ようこそ | Bem-vindo | Ми́лости про́сим | Bienvenida
 
-**Hello world, I’m CJ from cjteclab and I welcome you to my github page.** 
+**Hello world, I am CJ from cjteclab and I welcome you to my github page.** 
 
 This page is all about computational chemistry, quantum computing, data science and programming.
 
@@ -13,7 +13,7 @@ In the main cjteclab repository you can find:
  - info/learning folders about python, computational chemistry, quantum computing, quantum mechanics, mathematics, linux
  - cogitationes (thoughts about different themes and personal interests)
  
-You can also find the following four repositories of own small projects:
+You can also find the following four repositories about my own small projects:
  1. [cjteclab_computational_chemistry](https://github.com/cjteclab/cjteclab_computational_chemistry)
  2. [cjteclab_quantum_computing](https://github.com/cjteclab/cjteclab_quantum_computing)
  3. [cjteclab_data_science](https://github.com/cjteclab/cjteclab_data_science)
