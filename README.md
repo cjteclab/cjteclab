@@ -2,7 +2,7 @@
 
 **Hello world, I’m CJ from cjteclab and I welcome you to my github page.** 
 
-This site is all about computational chemistry, quantum computing and programming.
+This page is all about computational chemistry, quantum computing, data science and programming.
 
 ---
 
@@ -10,7 +10,7 @@ This site is all about computational chemistry, quantum computing and programmin
 In the main cjteclab repository you can find:
  - a blog about my journey
  - technical setup files (vim, tmux, i3)
- - info/learning folders about pyhton, computational chemistry, quantum computing and mathematics
+ - info/learning folders about pyhton, computational chemistry, quantum computing, quantum mechanics and mathematics
  - cogitationes (thoughts about different themes and personal interests)
  
 Also you can find following repositories:
