@@ -13,10 +13,11 @@ In the main cjteclab repository you can find:
  - info/learning folders about pyhton, computational chemistry, quantum computing, quantum mechanics, mathematics, linux
  - cogitationes (thoughts about different themes and personal interests)
  
-Also you can find following repositories:
- - a: description
- - b: description
- - c: description
+You can also find the following four repositories of own small projects:
+ 1. cjteclab_computational_chemistry
+ 2. cjteclab_quantum_computing
+ 3. cjteclab_data_science
+ 4. cjteclab_miscellaneous_projects
 
 ---
 
