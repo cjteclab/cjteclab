@@ -10,7 +10,7 @@ This page is all about computational chemistry, quantum computing, data science 
 In the main cjteclab repository you can find:
  - a blog about my journey
  - technical setup files (vim, tmux, i3)
- - info/learning folders about pyhton, computational chemistry, quantum computing, quantum mechanics, mathematics, linux
+ - info/learning folders about python, computational chemistry, quantum computing, quantum mechanics, mathematics, linux
  - cogitationes (thoughts about different themes and personal interests)
  
 You can also find the following four repositories of own small projects:
@@ -27,10 +27,10 @@ With my background and experience in chemistry my main focus of interest is the 
 - **quantum computing**
 - **programming**
 
-About a year ago I started my journey into self-taught Python programming combined with Quantum Computing and Data Science. In my view there is no doubt that the nexus between the paradigms of Quantum Computing and Data Sciene will lead us to explore new horizons in chemical engineering in the near future. 
-I want to be a part of this fascinating paradigm shif and may contribute a verse.
+About a year ago I started my journey into self-taught Python programming combined with quantum computing and data science. In my view there is no doubt that the nexus between the paradigms of quantum computing and data science will lead us to explore new horizons in chemical engineering in the near future. 
+I want to be a part of this fascinating paradigm shift and may contribute a verse.
 
-If you have started or want to start your own journey into computational chemistry, quantum computing, data science or  programming and looking for help or want to talk about your experience feel free to contact me!
+If you have started or want to start your own journey into computational chemistry, quantum computing, data science or programming and are looking for help or want to talk about your experience feel free to contact me!
 
 #### I am interested in and searching for:
 
