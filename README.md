@@ -34,9 +34,9 @@ If you have started or want to start your own journey into computational chemist
 
 #### I am interested in and searching for:
 
-- job offers in which I can contribute my interests and share my fascination about chemistry and quantum mechanics with other interesting people.
-- small communities who share their knowledge and work together on interesting projects.
-- mentors who I can pepper with all my questions and share their knowledge.
+- Job offers in which I can contribute my interests and share my fascination about chemistry and quantum mechanics with other interesting people.
+- Small communities who share their knowledge and work together on interesting projects.
+- Mentors who I can pepper with all my questions and share their knowledge.
 
 ---
 
