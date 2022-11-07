@@ -10,7 +10,7 @@ This page is all about computational chemistry, quantum computing, data science 
 In the main cjteclab repository you can find:
  - a blog about my journey
  - technical setup files (vim, tmux, i3)
- - info/learning folders about pyhton, computational chemistry, quantum computing, quantum mechanics and mathematics
+ - info/learning folders about pyhton, computational chemistry, quantum computing, quantum mechanics, mathematics, linux
  - cogitationes (thoughts about different themes and personal interests)
  
 Also you can find following repositories:
