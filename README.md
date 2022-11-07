@@ -21,10 +21,10 @@ Also you can find following repositories:
 ---
 
 ### About me
-With my background and experience in chemistry my main focus of interest is the intersection between 
-- **computational chemistry**,
-- **quantum computing**,
-- **programming**.
+With my background and experience in chemistry my main focus of interest is the intersection between:
+- **computational chemistry**
+- **quantum computing**
+- **programming**
 
 About a year ago I started my journey into self-taught Python programming combined with Quantum Computing and Data Science. In my view there is no doubt that the nexus between the paradigms of Quantum Computing and Data Sciene will lead us to explore new horizons in chemical engineering in the near future. 
 I want to be a part of this fascinating paradigm shif and may contribute a verse.
