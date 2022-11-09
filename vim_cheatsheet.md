@@ -73,8 +73,8 @@ G => go to the last line of the file
 : [num] => jump to line [num]
 { => jump to the next empty line backward
 } => jump to the next empty line forward
-crtl + d => jump half page down
-crtl + u => jump half page up
+ctrl + d => jump half page down
+ctrl + u => jump half page up
 \% => jump to the matching pair 
 
 ### Different ways to enter INSERT MODE
@@ -100,14 +100,15 @@ t => {target} go up to the next character forward
 T => {target} go up to the next character backward
 / => {target} SEARCH (up to the next match) forward
 ? => {target} SEARCH (up to the next match) backward
-n => repeat the last search forward
-N => repeat the last search backwards
-\* => go to the next position for search term forward
-\# => go to the next positon for search term backward
+n => go to the next position for search term forward
+N => go to the next positon for search term backward
+\* => jump to the next same word forward
+\# => jump to the next same word backward
 
 ### Visualising
 v => select character and go to Visual Mode
 V => select line and go to Visual Mode
+ctrl + v => select character and go to VisualBlock Mode
 
 ### Copy and Paste
 y => Yank (copy visualised selection)
@@ -130,6 +131,7 @@ ctrl + r => redo last change
 ### Examples
 d f j => delete line until the next appearance of j
 d i ( => delete everything between parentheses
+ctrl + v , :> => indentation of line
 
 ## Recommended Usage
 - use "Find Objects" commands to change text. So it is easier to repeat those changes
