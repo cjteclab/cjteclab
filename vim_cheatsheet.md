@@ -6,7 +6,7 @@
 ## Why you have to use VIM?
 
 ## Prelude
-1. The syntax of the language is broken down into two or three parts: 1. **{operation}** (optional)**{number}** and 2. **{target}** ^[^1]^ (e.g. the command 'dw' stands for delete:d and word:w --> delete the word under the cursor). After you have typed in an {operator} VIM will wait until you typed in the {target}.
+1. The syntax of the language is broken down into two or three parts: 1. **{operation}** (optional)**{number}** and 2. **{target}** [^1] (e.g. the command 'dw' stands for delete:d and word:w --> delete the word under the cursor). After you have typed in an {operator} VIM will wait until you typed in the {target}.
 1. Commands are **repeatable** (using '.' in command mode) and **undoable** (using 'u' in command mode)
 1. Most commands can act also as motion command (e.g. the command 'w' stands for 'word'. But you can also use 'w' in normal mode to move one word forward).
 1. You can combine different commands and extend those commands (see chapter Command Examples)
