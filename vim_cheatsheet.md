@@ -56,7 +56,7 @@ A	=> Append (append text to the end of current line)
 o	=> Open (open up a new line following the current line and go to Insert Mode)  
 O	=> Open (open up a new line above the current line and go to Insert Mode)  
 
-### Moving Basic
+### Moving Basics
 h	=> {target} move one character backwards  
 j	=> {target} move one line down  
 k	=> {target} move one line up  
@@ -82,20 +82,17 @@ ctrl d	=> jump half page down
 ctrl u	=> jump half page up  
 \%	=> jump to the matching pair   
 
-### Different ways to enter INSERT MODE
-c	=> {operator} Change (delete selection and enter insert mode)  
-
 ### Text Objects
 iw	=> {target} Inner Word (target is the word where the cursor is in)  
-i(	=> {target} Inner Parenthese  
-i[	=> {target} Inner Brackets  
-i{	=> {target} Innter Curly Brackets  
+i)	=> {target} Inner Parenthese  
+i]	=> {target} Inner Brackets  
+i}	=> {target} Innter Curly Brackets  
 it	=> {target} Inner Tag   
 i"	=> {target} Innter Quotes  
 ip	=> {target} Inner Paragraph  
 a(	=> {target} Inner Parentheses + Parentheses  
-a[	=> {target} Inner Brackets + Brackets  
-a{	=> {target} Inner Curly Brackets + Curly Brackets  
+a]	=> {target} Inner Brackets + Brackets  
+a}	=> {target} Inner Curly Brackets + Curly Brackets  
 a"	=> {target} Inner Quotes + Quotes  
 
 ### Find Objects
