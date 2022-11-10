@@ -14,21 +14,21 @@
 
 ## VIM Modes
 VIM has different modes:
-	1. **NORMAL MODE**:
-		- can be accessed from other modes by pressing 'ESC' 
-		- this is the mode where you can move around in the file and execute most basic and advanced commands
-		- when you are in normal mode VIM shows nothing at the bottom line.
-	2. **INSERT MODE**:
-		- can be accessed by different commands (see chapter Basic Commands)
-		- this is the mode where you can typing just like in a regular text editor.
-		- when you are in insert mode VIM shows "-- INSERT --" at the bottom line.
-	3. **VISUAL MODE**:
-		- can be accessed by different commands (see chapter Basic Commands)
-		- this is the mode where you can select text (similar as selecting text with a mouse) and apply commands on the seleciton (see chapter Basic Commands)
-		- when you are in visual mode VIM shows "-- VISUAL --" at the bottom line. But there are other visual modes too: "-- BLOCK-Visual --" and "-- LINEWISE-VISUAL --"
-	4. **COMMAND MODE**: 
-		- can be accessed by typing ':' from normal mode. The bottom line shows a ':' after which you can type in your command.
-		- this is the mode where you can typ in commands
+1. **NORMAL MODE**:
+	- can be accessed from other modes by pressing 'ESC' 
+	- this is the mode where you can move around in the file and execute most basic and advanced commands
+	- when you are in normal mode VIM shows nothing at the bottom line.
+2. **INSERT MODE**:
+	- can be accessed by different commands (see chapter Basic Commands)
+	- this is the mode where you can typing just like in a regular text editor.
+	- when you are in insert mode VIM shows "-- INSERT --" at the bottom line.
+3. **VISUAL MODE**:
+	- can be accessed by different commands (see chapter Basic Commands)
+	- this is the mode where you can select text (similar as selecting text with a mouse) and apply commands on the seleciton (see chapter Basic Commands)
+	- when you are in visual mode VIM shows "-- VISUAL --" at the bottom line. But there are other visual modes too: "-- BLOCK-Visual --" and "-- LINEWISE-VISUAL --"
+4. **COMMAND MODE**: 
+	- can be accessed by typing ':' from normal mode. The bottom line shows a ':' after which you can type in your command.
+	- this is the mode where you can typ in commands
 
 ## Basic Commands
 The following list is not final. It is just a overview of the most used commands.
