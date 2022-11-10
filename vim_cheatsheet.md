@@ -26,8 +26,11 @@
 3. Commands are **repeatable** (using '.' in command mode) and **undoable** (using 'u' in command mode)
 4. Most commands can act also as motion command (e.g. the command 'w' stands for 'word'. But you can also use 'w' in normal mode to move one word forward).
 5. You can combine different commands and extend those commands (see chapter Command Examples)
+6. Masterin VIM is all about training accompanied by the question: How can I speed up the task I want to implement?
 
 ## Basic Commands
+The following list is not final. It is just a overwiev of the most used and most command commands.
+
 ### Basic
 . => {command} repeat last change  
 \> => {operator} Indent  
@@ -131,6 +134,7 @@ ctrl + r => redo last change
 ### Examples
 d f j => delete line until the next appearance of j  
 d i ( => delete everything between parentheses  
+c i p => change paragraph
 ctrl + v , :> => indentation of line  
 
 ## Recommended Usage
