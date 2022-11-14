@@ -2,7 +2,7 @@
 
 **Hello world, I am CJ from cjteclab and I welcome you to my github page.** 
 
-This page is all about computational chemistry, quantum computing, data science and programming.
+This page is all about computational chemistry, quantum computing, data science and software development.
 
 ---
 
