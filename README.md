@@ -43,6 +43,8 @@ Another interest of mine addresses the question of what it needs to enable great
 - Small communities who share their knowledge and work together on interesting projects.
 - Mentors who I can pepper with all my questions and share their knowledge.
 
+---
+
 ### Contact
 cjteclab@gmail.com
 
