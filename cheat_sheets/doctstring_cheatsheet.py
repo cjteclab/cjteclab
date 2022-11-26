@@ -19,12 +19,7 @@
 # - First word in functions: use infinitive (pandas) or use descriptive-style
 # (google).
 
-"""Docstring for the example.py script.
-
-Note: license and author info do not belong in docstrings.
-"""
-
-"""Docstring for the example.py module.
+"""Docstring for the example.py module/script.
 
 Modules names should have short, all-lowercase names.  The module name may
 have underscores if this improves readability.
@@ -81,14 +76,14 @@ class Foo():
     Attributes
     ----------
     x : float
-        This section bescribe non-method attributes of the class.
+        This section describe non-method attributes of the class.
 
     Methods
     -------
     colorspace(c='rgb')
-        Represent the photo in the given colorspace
+        Represent the photo in the given colorspace.
     In general, it is not necesarry to list class methods. If a class may have
-    a great many methods, of which only a few are relevant, they can be list
+    a great many methods, of which only a few are relevant, they can be listed
     here.
     Do not list private methods.
     """
@@ -97,13 +92,13 @@ class Foo():
 
 
 CONSTANT = 12
-"""Consist of: Summary, extendet summary, see also, references, examples"""
+"""Consist of: summary, extendet summary, see also, references, examples."""
 
 
 def foo(var1, var2, *args, long_var_name="hi", only_seldom_used_keyword=0, **kwargs):
     r"""Summarize the function in one line. Do this, return that.
-    (functions and methods must start with an infinitive verb: cast, get,
-    calculate, transform, ).
+    
+    (Functions and methods start with an infinitive verb.)
 
     Several sentences providing an extended description - to clarify
     functionality, not to discuss impelmentation detail or background theory.
