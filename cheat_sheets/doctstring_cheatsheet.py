@@ -19,7 +19,7 @@
 # - First word in functions: use infinitive (pandas) or use descriptive-style
 # (google).
 
-"""Docstring for the example.py scirpt.
+"""Docstring for the example.py script.
 
 Note: license and author info do not belong in docstrings.
 """
