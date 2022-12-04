@@ -23,24 +23,24 @@ You can also find the following four repositories about my own small projects:
 ---
 
 ### About me
-With my background and experience in chemistry my main focus of interest is the intersection between:
+With my background and experience in chemistry, my main focus of interest is the intersection between:
 - **computational chemistry**
 - **quantum computing**
 - **programming**
 
-About a year ago I started my journey into self-taught Python programming combined with quantum computing and data science. In my view there is no doubt that the nexus between the paradigms of quantum computing and data science will lead us to explore new horizons in chemical engineering in the near future. 
+About a year ago I started my journey into self-taught Python programming combined with quantum computing and data science. In my view, there is no doubt that the nexus between the paradigms of quantum computing and data science will lead us to explore new horizons in chemical engineering soon. 
 I want to be a part of this fascinating paradigm shift and may contribute a verse.
 
-If you have started or want to start your own journey into computational chemistry, quantum computing, data science or programming and are looking for help or want to talk about your experience feel free to contact me!
+If you have started or want to start your journey into computational chemistry, quantum computing, data science or programming and are looking for help or want to talk about your experience feel free to contact me!
 
 Another interest of mine addresses the question of what it needs to enable great ideas and scientific progress. For this purpose two paths must be taken into account:
 - The first path is about how to overcome existing thinking habits, how to empower creativity and how to discover the existing with new eyes.
-- The second path starts with the conviction that greatness can only arise through the composition of human beings and asks for what can you personally contribute to let this composition shine?
+- The second path starts with the conviction that greatness can only arise through the composition of human beings and asks what can you personally contribute to let this composition shine.
 
 
 #### I am interested in and searching for:
 
-- Job offers in which I can contribute my interests and share my fascination about chemistry and quantum mechanics with other interesting people.
+- Job offers in which I can contribute my interests and share my fascination with chemistry and quantum mechanics with other interesting people.
 - Small communities who share their knowledge and work together on interesting projects.
 - Mentors who I can pepper with all my questions and share their knowledge.
 
