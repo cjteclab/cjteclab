@@ -26,7 +26,7 @@ You can also find the following four repositories about my own small projects:
 With my background and experience in chemistry, my main focus of interest is the intersection between:
 - **computational chemistry**
 - **quantum computing**
-- **programming**  
+- **data science**  
 
 In my view, there is no doubt that the nexus between the paradigms of quantum computing and data science will lead us to explore new horizons in chemical engineering soon. 
 I want to be a part of this fascinating paradigm shift and may contribute a verse.
