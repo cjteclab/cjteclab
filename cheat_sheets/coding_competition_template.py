@@ -10,15 +10,15 @@ Table of Content
     2. Toughts about Input Handling:
         - different ways how to handle inputs
         - Tip: admit input handling as a part of the problem
-    3. Main Function:
+    3. Code:
+        - each function does one thing
         - a main function to execute the code
     4. Test your code
+    5. Rewrite code for submission
 
 Sources:
     - https://docs.python.org/3/library/doctest.html
     - https://www.geeksforgeeks.org/python-input-methods-competitive-programming/
-
-
 """
 
 # 1. Docstring
@@ -90,12 +90,23 @@ More examples:
 
 """
 
-# 3. Main Function
+# 3. Code
+
+
+def read_input():
+    pass
+    # return
+
+
+def func_1():
+    """These functions will be tested."""
+    pass
+    # return
 
 
 def main():
     pass
-    # return result
+    # print() --> is required for ouput most of the time
 
 
 if __name__ == '__main__':
@@ -107,4 +118,16 @@ if __name__ == '__main__':
 """Test your code:
 To test your code and get a detailed log of the test execute:
     --> python file.py -v
+"""
+
+# 5. Rewrite Code for Submission
+
+"""Rewrite Code for Submission:
+    Change:
+        if __name__ == '__main__':
+            import doctest
+            doctest.testmode()
+    To:
+        if __name__ == '__main__':
+            main()
 """
