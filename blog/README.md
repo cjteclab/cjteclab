@@ -1,7 +1,7 @@
 # Blog by cjteclab
 
 ## 2022-11-28
----
+
 ### Moving towards **VS Code**
 After consideration, I decided to move from Vim as the main IDE to VS Code.
 
