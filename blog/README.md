@@ -21,7 +21,7 @@ In this context, I watched some video snippets [1](https://www.youtube.com/watch
 - Activate relative line numbers.
 
 ### Update 2022-12-02
-So far, I am very happy with VS Code. But I miss Vim so much, that I made the decision to use both. VS Code for large projects and when I need a overview. Vim for daily tasks and small fixes.
+So far, I am very happy with VS Code. But I missed Vim so much, that I made the decision to use both. I will use VS Code for large projects and when I need a overview of a project. And I will use Vim for daily tasks and coding sessions.
 
 ---
 
