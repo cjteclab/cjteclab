@@ -52,6 +52,6 @@ Another interest of mine addresses the question of what it needs to enable great
 ---
 
 ### Contact
-cjteclab@gmail.com
+cjteclab@gmail.com  
 [linkedin](linkedin.com/in/carsten-jordan-a26998237)
 
