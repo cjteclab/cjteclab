@@ -28,9 +28,9 @@ So far, I am very happy with VS Code. But I missed Vim so much, that I made the 
 ## 2022-12-09
 
 ### Ubuntu and its problems with the fan configuration
-Some Ubuntu users maybe know the following issue. After you have booted your computer, you have to find out that the fan is running at full speed. What happened? The last time you worked on the computer, everything was fine. The fan was quiet and run at normal speed. You didn't change any settings.
+Some Ubuntu users maybe are familiar with the following issue. After you have booted your computer, you have to find out that the fan is running at full speed. You have no idea what happened? The last time you worked on your computer, everything was fine. The fan was quiet and run at normal speed. You didn't change any settings.
 I can't tell you what's the problem behind this issue. But I can tell you that this issue occurs once in a while ([Source](https://askubuntu.com/a/1034036)).  
-The last time I had to handle this issue, I couldn't fix it. Trying different fan settings in the BIOS didn't fix the issue. Erasing the hard disk and reinstalling Ubuntu didn't work either. In the end, I installed Windows. I don't know why, but after installing Windows, the fan was running at normal speed.  
+The last time I had to handle this issue, I couldn't fix it. Trying different fan settings in the BIOS didn't fix the issue. Erasing the hard disk and reinstalling Ubuntu didn't work either. In the end, I installed Windows. I don't know why, but after installing Windows, the fan was running at normal speed again.  
 
 This time I tried to fix this issue by using **lm-sensor** and **fancontrol**, as it is described in many forums. I highly recommend the blog article at [iandw.com](https://iandw.net/2014/10/12/fancontrol-under-ubuntu-14-04-resolving-usrsbinpwmconfig-there-are-no-pwm-capable-sensor-modules-installed/), because the article describes some common errors while using **fancontrol**. The blog article handles the fan problem at Ubuntu 14.10, but it is still working at Ubuntu 22.04.
 
