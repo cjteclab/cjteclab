@@ -8,9 +8,9 @@ This page is all about computational chemistry, quantum computing, data science 
 
 ### Table of Contents
 In the main cjteclab repository you can find:
- - a blog about my journey
- - cheat sheets
- - technical setup files (vim, tmux)
+ - a [**blog**](https://github.com/cjteclab/cjteclab/tree/main/blog) about my journey
+ - [**cheat sheets**](https://github.com/cjteclab/cjteclab/tree/main/cheat_sheets)
+ - [**technical setup files**](https://github.com/cjteclab/cjteclab/technical_setup) (vim, tmux)
  - info/learning folders about python, computational chemistry, quantum computing, quantum mechanics, mathematics, linux
  - cogitationes (thoughts about different themes and personal interests)
  
