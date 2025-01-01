@@ -1,4 +1,4 @@
-# Welcome to My Learning Journey and Portfolio 🦋
+# Welcome to cjteclab and to my personal journey 🦋
 
 ## My Goals and Motivation
 
