@@ -1,4 +1,6 @@
-# Linux, Microcontroller, and Embedded Systems Learning Plan
+# Project 2025 Schedule
+
+Linux, Microcontroller, and Embedded Systems Learning Plan
 
 ## Linux Basics
 **Period:** January  
