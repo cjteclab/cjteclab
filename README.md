@@ -1,4 +1,4 @@
-# Welcome to My Learning Journey and Portfolio 🚀
+# Welcome to My Learning Journey and Portfolio 🦋
 
 ## My Goals and Motivation
 
