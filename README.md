@@ -27,8 +27,9 @@ This repository documents my learning journey to achieve technical expertise and
 ### **What’s in this Repository?**  
 - **Learning Modules**: Step-by-step progress in Linux, Linux Administration, Embedded Linux Systems, and Microcontroller programming.  
 - **Projects**: Hands-on projects showcasing practical applications of my learning, including system setup, embedded programming, and IoT security tasks.  
+- **Journal**: Personal notes and retrospective about challenges, successes and lessons learned.
+- **LCLC**: Linux Command Line Compendium: Writing Project
 - **Resources**: A curated collection of books, articles, and tools that I’ve used along the way.  
-- **Reflections**: Personal notes and retrospectives about challenges, successes, and lessons learned.  
 
 The repository is structured to provide clear visibility into my progress and to serve as a portfolio for my skills and accomplishments.  
 
