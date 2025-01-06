@@ -63,7 +63,7 @@ Hands-on projects consolidating Linux basics and administration skills.
 
 - **Programming Language II:** Assembly language.  
 - **Microcontroller Programming Techniques:** Interrupts, timers, pulse modulation, communication protocols.  
-- **Microprocessor:** Types, CPU parts, BUS, memory.  
+- **Microprocessor:** Types, CPU parts, BUS, memory, circuits
 - **Memory Management:** Techniques and optimization.  
 - **I/O Ports/Management:** Handling input/output ports.  
 - **Peripherals/Interfaces:** Using external devices.  
