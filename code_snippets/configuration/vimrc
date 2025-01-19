@@ -1,0 +1,134 @@
+" ==========VIM SETTINGS========== 
+
+" ----------General Settings----------
+
+" Disable compatibility with vi which can cause unexpected issues
+set nocompatible
+
+" Enable type file detection. Vim will be able to try to detect the file type
+filetype on
+" Enable plugins and load plugin for the detected file type
+filetype plugin on
+" Load an indent file for the detected file type
+filetype indent on
+" Last three settings filetype, filetyp plugin & filetype indent can be combined
+" filetype plugin indent on
+
+" Show the title of the file
+set title
+
+" Add line numbers on the left side
+set number
+" Add relative line numbers
+set relativenumber
+
+" Wrap lines visually. Lines are still one line of text
+set wrap
+
+" ----------Optical settings----------
+
+" Set a marker at characterwidth 80
+set colorcolumn=80
+
+" Enable syntax highlighting
+syntax on
+
+" Pick a colorscheme (default, desert, *evening, habamax, pablo, quiet, ron, slate)
+colorscheme evening
+
+" Highlight cursor line underneath the cursor horizontally
+set cursorline
+
+" Highlight cursor line underneath the cursor vertically
+" set cursorcolumn
+
+" Highligh matching parentheses/braces
+set showmatch
+
+" ----------Indentation----------  
+
+" Copy indentation from the previous line
+set autoindent
+" Determines the number of space a hard tab (\t) visually occupies
+set tabstop=4
+" Determine how many space VIM uses, when you press the Tab key
+" (only when *expandtab* is enabled)
+set softtabstop=4
+" Determine the number of spaces to use for auto-indentation
+set shiftwidth=4
+" Makes the Tab key behave intelligently in insert mode.
+set smarttab
+" Convert tabs not to space
+" set noexpandtab
+" Convert tabs to space
+set expandtab
+
+" ----------Search----------  
+"
+" Highligh all search matches
+set hlsearch
+" Incrementally search as you type
+set incsearch
+
+" ==========Commands==========  
+
+" ----------Function to insert info-boxes----------
+
+function! InsertInfoBox(type)
+    if a:type ==# 'ch'
+        call append(line('.'), [
+        \ '/*****************************************************************************\',
+        \ '*                         C Info-Box Type 1                                  *',
+        \ '* Description: Insert your C description here                                *',
+        \ '* Author: cjteclab                                                           *',
+        \ '* Date: ' . strftime("%Y%m%d") . '                                           *',
+        \ '\*****************************************************************************/'
+        \ ])
+    elseif a:type ==# 'ci'
+        call append(line('.'), [
+        \ '/*****************************************************************************\',
+        \ '*                      C Info-Box Type 2                                     *',
+        \ '* Purpose: Add more detailed C info                                          *',
+        \ '\*****************************************************************************/'
+        \ ])
+    elseif a:type ==# 'bh'
+        call append(line('.'), [
+        \ '#*****************************************************************************#',
+        \ '#                      Bash Info-Box Type 1                                   #',
+        \ '# Description: Insert your Bash description here                              #',
+        \ '# Author: cjteclab                                                            #',
+        \ '# Date: ' . strftime("%Y%m%d") . '                                            #',
+        \ '#*****************************************************************************#'
+        \ ])
+    elseif a:type ==# 'bi'
+        call append(line('.'), [
+        \ '#*****************************************************************************#',
+        \ '#                      Bash Info-Box Type 2                                   #',
+        \ '# Details: Add more specific Bash info                                        #',
+        \ '#*****************************************************************************#'
+        \ ])
+    elseif a:type ==# 'ph'
+        call append(line('.'), [
+        \ '"""****************************************************************************',
+        \ '                      Python Info-Box Type 1                              ',
+        \ ' Description: Insert your Python description here                         ',
+        \ ' Author: cjteclab                                                         ',
+        \ ' Date: ' . strftime("%Y%m%d") . '                                         ',
+        \ '****************************************************************************"""'
+        \ ])
+    elseif a:type ==# 'pi'
+        call append(line('.'), [
+        \ '"""****************************************************************************',
+        \ '                      Python Info-Box Type 2                              ',
+        \ ' Purpose: Add detailed Python info                                        ',
+        \ '****************************************************************************"""'
+        \ ])
+    else
+        echo "Invalid info-box type!"
+    endif
+endfunction
+
+" ----------Define the :ib command---------- 
+
+command! -nargs=1 Ibox call InsertInfoBox(<q-args>)
+
